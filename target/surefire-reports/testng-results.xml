@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-19T10:52:32 IST" name="Suite" finished-at="2021-08-19T10:52:32 IST" duration-ms="72">
+    <groups>
+    </groups>
+    <test started-at="2021-08-19T10:52:32 IST" name="Test" finished-at="2021-08-19T10:52:32 IST" duration-ms="72">
+      <class name="sshrunwithparameterpass.JenkinsProject.LaunchBrowser">
+        <test-method signature="firstTest()[pri:0, instance:sshrunwithparameterpass.JenkinsProject.LaunchBrowser@489115ef]" started-at="2021-08-19T10:52:32 IST" name="firstTest" finished-at="2021-08-19T10:52:32 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+      </class> <!-- sshrunwithparameterpass.JenkinsProject.LaunchBrowser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
